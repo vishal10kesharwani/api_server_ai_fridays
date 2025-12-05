@@ -1,0 +1,282 @@
+[
+  {
+    "maintenance_id": 1,
+    "asset_id": "A100",
+    "fault_code": "FC101",
+    "downtime_minutes": 45,
+    "replaced_component": "Bearing",
+    "technician_notes": "Bearing showed signs of wear and tear. Replaced with new OEM part.",
+    "timestamp": "2023-10-15T08:30:00Z",
+    "id": "1ba75139-c9ae-4e21-af79-d0b30a29c3a5"
+  },
+  {
+    "maintenance_id": 2,
+    "asset_id": "B205",
+    "fault_code": "FC202",
+    "downtime_minutes": 120,
+    "replaced_component": "Motor",
+    "technician_notes": "Motor failure due to overheating. Installed upgraded cooling system.",
+    "timestamp": "2023-10-16T14:15:00Z",
+    "id": "d93beb15-0843-4d48-b022-ea4b330dbf59"
+  },
+  {
+    "maintenance_id": 3,
+    "asset_id": "C300",
+    "fault_code": "FC303",
+    "downtime_minutes": 30,
+    "replaced_component": "Sensor",
+    "technician_notes": "Faulty temperature sensor causing false readings. Replaced and calibrated.",
+    "timestamp": "2023-10-17T10:45:00Z",
+    "id": "70b04acc-8a02-4625-b103-6f2a20128f6b"
+  },
+  {
+    "maintenance_id": 4,
+    "asset_id": "D450",
+    "fault_code": "FC404",
+    "downtime_minutes": 90,
+    "replaced_component": "Control Board",
+    "technician_notes": "Control board malfunction. Replaced and updated firmware.",
+    "timestamp": "2023-10-18T16:20:00Z",
+    "id": "d3954a0e-994f-4f76-a196-bb7ca6675b47"
+  },
+  {
+    "maintenance_id": 5,
+    "asset_id": "E505",
+    "fault_code": "FC505",
+    "downtime_minutes": 15,
+    "replaced_component": "Belt",
+    "technician_notes": "Drive belt snapped. Replaced with high-tension variant.",
+    "timestamp": "2023-10-19T09:10:00Z",
+    "id": "c9719af6-b340-466c-84fe-1bf1df71fd9a"
+  },
+  {
+    "maintenance_id": 6,
+    "asset_id": "F600",
+    "fault_code": "FC606",
+    "downtime_minutes": 60,
+    "replaced_component": "Pump",
+    "technician_notes": "Hydraulic pump failure. Replaced and system pressure tested.",
+    "timestamp": "2023-10-20T11:30:00Z",
+    "id": "b3fe762f-8f96-4c7e-a246-18810f5c78a8"
+  },
+  {
+    "maintenance_id": 7,
+    "asset_id": "G750",
+    "fault_code": "FC707",
+    "downtime_minutes": 25,
+    "replaced_component": "Filter",
+    "technician_notes": "Clogged air filter causing reduced efficiency. Replaced and cleaned intake.",
+    "timestamp": "2023-10-21T13:50:00Z",
+    "id": "64d8d543-5793-49db-865c-ac9fe7149d66"
+  },
+  {
+    "maintenance_id": 8,
+    "asset_id": "H800",
+    "fault_code": "FC808",
+    "downtime_minutes": 180,
+    "replaced_component": "Gearbox",
+    "technician_notes": "Gearbox seized due to lack of lubrication. Replaced and added auto-lubrication system.",
+    "timestamp": "2023-10-22T08:00:00Z",
+    "id": "8cb59dcb-0c9e-432c-ae14-9f709c01962a"
+  },
+  {
+    "maintenance_id": 9,
+    "asset_id": "I950",
+    "fault_code": "FC909",
+    "downtime_minutes": 10,
+    "replaced_component": "Fuse",
+    "technician_notes": "Blown fuse in power supply. Replaced and checked for shorts.",
+    "timestamp": "2023-10-23T15:40:00Z",
+    "id": "7921645f-2454-4369-bffd-85105d312c70"
+  },
+  {
+    "maintenance_id": 10,
+    "asset_id": "J1000",
+    "fault_code": "FC010",
+    "downtime_minutes": 50,
+    "replaced_component": "Actuator",
+    "technician_notes": "Faulty linear actuator. Replaced and tested movement cycles.",
+    "timestamp": "2023-10-24T12:25:00Z",
+    "id": "559612a4-2f4e-472b-ba60-73edf2eae40d"
+  },
+  {
+    "maintenance_id": 1,
+    "asset_id": "A100",
+    "fault_code": "FC101",
+    "downtime_minutes": 45,
+    "replaced_component": "Bearing",
+    "technician_notes": "Bearing showed signs of wear and tear. Replaced with new part.",
+    "timestamp": "2023-10-15T08:30:00Z",
+    "id": "9e62e7ff-ae1d-4464-87c3-07a7a6103fd0"
+  },
+  {
+    "maintenance_id": 2,
+    "asset_id": "B205",
+    "fault_code": "FC202",
+    "downtime_minutes": 120,
+    "replaced_component": "Motor",
+    "technician_notes": "Motor failure due to overheating. Installed upgraded cooling system.",
+    "timestamp": "2023-10-16T14:15:00Z",
+    "id": "261596f0-3711-45e1-825e-4cb4cff5277b"
+  },
+  {
+    "maintenance_id": 3,
+    "asset_id": "C300",
+    "fault_code": "FC303",
+    "downtime_minutes": 30,
+    "replaced_component": "Sensor",
+    "technician_notes": "Faulty temperature sensor. Calibrated and replaced.",
+    "timestamp": "2023-10-17T10:45:00Z",
+    "id": "1bb7c816-5e6a-4df1-9939-c95630cdab05"
+  },
+  {
+    "maintenance_id": 4,
+    "asset_id": "D400",
+    "fault_code": "FC404",
+    "downtime_minutes": 90,
+    "replaced_component": "Control Board",
+    "technician_notes": "Control board malfunction. Replaced and tested all circuits.",
+    "timestamp": "2023-10-18T16:20:00Z",
+    "id": "a49e49fc-25f9-49bd-8d5a-d3e837fd96aa"
+  },
+  {
+    "maintenance_id": 5,
+    "asset_id": "E505",
+    "fault_code": "FC505",
+    "downtime_minutes": 15,
+    "replaced_component": "Fuse",
+    "technician_notes": "Blown fuse detected and replaced. No further issues found.",
+    "timestamp": "2023-10-19T09:10:00Z",
+    "id": "82d6b0b2-de08-4869-8cb5-f8f63e45a73d"
+  },
+  {
+    "maintenance_id": 6,
+    "asset_id": "F606",
+    "fault_code": "FC606",
+    "downtime_minutes": 60,
+    "replaced_component": "Belt",
+    "technician_notes": "Drive belt snapped. Replaced and tension adjusted.",
+    "timestamp": "2023-10-20T11:30:00Z",
+    "id": "1bbebae6-6104-42b5-b013-f6f3fab8475f"
+  },
+  {
+    "maintenance_id": 7,
+    "asset_id": "G707",
+    "fault_code": "FC707",
+    "downtime_minutes": 180,
+    "replaced_component": "Pump",
+    "technician_notes": "Pump failure. Replaced and system flushed for debris.",
+    "timestamp": "2023-10-21T13:50:00Z",
+    "id": "d311a873-6a08-4a39-bd9c-d883f89a067e"
+  },
+  {
+    "maintenance_id": 8,
+    "asset_id": "H808",
+    "fault_code": "FC808",
+    "downtime_minutes": 25,
+    "replaced_component": "Switch",
+    "technician_notes": "Defective power switch. Replaced with a higher-rated model.",
+    "timestamp": "2023-10-22T15:05:00Z",
+    "id": "107c63f6-b93f-4090-ba41-1de02d846714"
+  },
+  {
+    "maintenance_id": 9,
+    "asset_id": "I909",
+    "fault_code": "FC909",
+    "downtime_minutes": 50,
+    "replaced_component": "Valve",
+    "technician_notes": "Stuck valve replaced. System pressure now stable.",
+    "timestamp": "2023-10-23T12:40:00Z",
+    "id": "1baa48dd-2a53-4631-8b31-fcafcdb64932"
+  },
+  {
+    "maintenance_id": 10,
+    "asset_id": "J010",
+    "fault_code": "FC010",
+    "downtime_minutes": 75,
+    "replaced_component": "Filter",
+    "technician_notes": "Clogged filter replaced. Recommended more frequent checks.",
+    "timestamp": "2023-10-24T17:25:00Z",
+    "id": "9c1063ed-86c7-4d0e-a481-67eb20eadc3d"
+  },
+  {
+    "maintenance_id": 1,
+    "asset_id": "A100",
+    "fault_code": "FC101",
+    "downtime_minutes": 45,
+    "replaced_component": "Bearing",
+    "technician_notes": "Bearing showed signs of wear and tear. Replaced with new part.",
+    "timestamp": "2023-10-15T08:30:00Z",
+    "id": "0c248b54-10d6-4390-bb9d-dd46f6d7857d"
+  },
+  {
+    "maintenance_id": 2,
+    "asset_id": "B205",
+    "fault_code": "FC202",
+    "downtime_minutes": 120,
+    "replaced_component": "Motor",
+    "technician_notes": "Motor failure due to overheating. Installed upgraded cooling system.",
+    "timestamp": "2023-10-16T14:15:00Z",
+    "id": "516126d3-e4ec-45b0-8b7a-280689addb76"
+  },
+  {
+    "maintenance_id": 3,
+    "asset_id": "C300",
+    "fault_code": "FC303",
+    "downtime_minutes": 30,
+    "replaced_component": "Sensor",
+    "technician_notes": "Faulty temperature sensor. Calibrated and replaced.",
+    "timestamp": "2023-10-17T10:45:00Z",
+    "id": "96a8383f-7b15-4a1d-b80d-2a4c0bac171a"
+  },
+  {
+    "maintenance_id": 4,
+    "asset_id": "D450",
+    "fault_code": "FC404",
+    "downtime_minutes": 90,
+    "replaced_component": "Control Board",
+    "technician_notes": "Control board malfunction. Replaced and tested all connections.",
+    "timestamp": "2023-10-18T16:20:00Z",
+    "id": "6edc9274-90a6-4a05-8001-a0b62733f337"
+  },
+  {
+    "maintenance_id": 5,
+    "asset_id": "E505",
+    "fault_code": "FC505",
+    "downtime_minutes": 15,
+    "replaced_component": "Fuse",
+    "technician_notes": "Blown fuse detected and replaced. No further issues found.",
+    "timestamp": "2023-10-19T09:10:00Z",
+    "id": "20166013-ab73-4a64-9970-e888789d7cb1"
+  },
+  {
+    "maintenance_id": 6,
+    "asset_id": "F600",
+    "fault_code": "FC606",
+    "downtime_minutes": 60,
+    "replaced_component": "Belt",
+    "technician_notes": "Drive belt snapped. Replaced and tension adjusted.",
+    "timestamp": "2023-10-20T11:30:00Z",
+    "id": "61e299fd-cb46-4f29-b541-86a222a0393a"
+  },
+  {
+    "maintenance_id": 7,
+    "asset_id": "G750",
+    "fault_code": "FC707",
+    "downtime_minutes": 180,
+    "replaced_component": "Pump",
+    "technician_notes": "Pump failure due to seal leakage. Replaced entire unit.",
+    "timestamp": "2023-10-21T13:50:00Z",
+    "id": "3de9daf2-88a0-4cb4-b09c-f01d857f9827"
+  },
+  {
+    "maintenance_id": 8,
+    "asset_id": "MTR-01",
+    "fault_code": "HIGH_LOAD",
+    "downtime_minutes": 0,
+    "replaced_component": null,
+    "technician_notes": "CRITICAL: System detected instantaneous power load (650 kW) exceeding the safe threshold (600 kW). This indicates a high load fault that requires immediate investigation to prevent equipment damage or tripping.",
+    "timestamp": "2025-12-06T01:15:00Z",
+    "id": "d3b036be-53b4-4547-a0a8-20df8ef3e782"
+  }
+]

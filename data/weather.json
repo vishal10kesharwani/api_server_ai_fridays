@@ -1,0 +1,325 @@
+[
+  {
+    "timestamp": "2023-10-01T08:00:00Z",
+    "outdoor_temp": 18.5,
+    "wet_bulb_temp": 16.2,
+    "outdoor_humidity": 65,
+    "solar_radiation": 120,
+    "weather_condition": "Partly Cloudy",
+    "id": "ad1f51e5-d59b-4667-bf76-5d8dcdced0c0"
+  },
+  {
+    "timestamp": "2023-10-01T09:00:00Z",
+    "outdoor_temp": 20.1,
+    "wet_bulb_temp": 17.8,
+    "outdoor_humidity": 60,
+    "solar_radiation": 250,
+    "weather_condition": "Sunny",
+    "id": "f841b57b-0751-48f6-a242-820d0bd6890b"
+  },
+  {
+    "timestamp": "2023-10-01T10:00:00Z",
+    "outdoor_temp": 22.3,
+    "wet_bulb_temp": 19.5,
+    "outdoor_humidity": 55,
+    "solar_radiation": 400,
+    "weather_condition": "Sunny",
+    "id": "0f76b2d1-214b-402f-9565-4d4cfd7040bb"
+  },
+  {
+    "timestamp": "2023-10-01T11:00:00Z",
+    "outdoor_temp": 24.7,
+    "wet_bulb_temp": 21.0,
+    "outdoor_humidity": 50,
+    "solar_radiation": 600,
+    "weather_condition": "Clear",
+    "id": "f3afc574-d34a-4416-bd46-02761bb48bda"
+  },
+  {
+    "timestamp": "2023-10-01T12:00:00Z",
+    "outdoor_temp": 26.2,
+    "wet_bulb_temp": 22.4,
+    "outdoor_humidity": 48,
+    "solar_radiation": 750,
+    "weather_condition": "Clear",
+    "id": "afd5dc7a-958b-41fc-8e72-51c90aff4e14"
+  },
+  {
+    "timestamp": "2023-10-01T13:00:00Z",
+    "outdoor_temp": 25.8,
+    "wet_bulb_temp": 22.1,
+    "outdoor_humidity": 52,
+    "solar_radiation": 680,
+    "weather_condition": "Partly Cloudy",
+    "id": "7785e1f1-204f-4878-9475-26880b24b3e6"
+  },
+  {
+    "timestamp": "2023-10-01T14:00:00Z",
+    "outdoor_temp": 24.0,
+    "wet_bulb_temp": 20.5,
+    "outdoor_humidity": 58,
+    "solar_radiation": 450,
+    "weather_condition": "Cloudy",
+    "id": "ee44fa5b-4f9c-4649-ab23-ef9d45de6160"
+  },
+  {
+    "timestamp": "2023-10-01T15:00:00Z",
+    "outdoor_temp": 22.5,
+    "wet_bulb_temp": 19.2,
+    "outdoor_humidity": 62,
+    "solar_radiation": 300,
+    "weather_condition": "Cloudy",
+    "id": "cadacaea-70f6-4dc2-8439-3717a9fb787e"
+  },
+  {
+    "timestamp": "2023-10-01T16:00:00Z",
+    "outdoor_temp": 20.8,
+    "wet_bulb_temp": 18.0,
+    "outdoor_humidity": 68,
+    "solar_radiation": 150,
+    "weather_condition": "Overcast",
+    "id": "6b8feb1d-ef45-4f01-b5bf-4d0a08b387ea"
+  },
+  {
+    "timestamp": "2023-10-01T17:00:00Z",
+    "outdoor_temp": 19.2,
+    "wet_bulb_temp": 16.8,
+    "outdoor_humidity": 72,
+    "solar_radiation": 50,
+    "weather_condition": "Overcast",
+    "id": "65191816-a57f-4b3c-b717-af2226bb1f42"
+  },
+  {
+    "timestamp": "2023-10-01T08:00:00Z",
+    "outdoor_temp": 18.5,
+    "wet_bulb_temp": 16.2,
+    "outdoor_humidity": 65,
+    "solar_radiation": 120,
+    "weather_condition": "Partly Cloudy",
+    "id": "2fc73a5c-537e-4ff8-bab1-430b1347a77e"
+  },
+  {
+    "timestamp": "2023-10-01T09:00:00Z",
+    "outdoor_temp": 20.1,
+    "wet_bulb_temp": 17.8,
+    "outdoor_humidity": 60,
+    "solar_radiation": 250,
+    "weather_condition": "Sunny",
+    "id": "727a5677-4300-430e-ae6c-7a93d07af01e"
+  },
+  {
+    "timestamp": "2023-10-01T10:00:00Z",
+    "outdoor_temp": 22.3,
+    "wet_bulb_temp": 19.5,
+    "outdoor_humidity": 55,
+    "solar_radiation": 400,
+    "weather_condition": "Sunny",
+    "id": "ffe6b1f3-8a9a-43cf-bfa4-a67bbca21daa"
+  },
+  {
+    "timestamp": "2023-10-01T11:00:00Z",
+    "outdoor_temp": 24.0,
+    "wet_bulb_temp": 20.7,
+    "outdoor_humidity": 50,
+    "solar_radiation": 600,
+    "weather_condition": "Clear",
+    "id": "e1501f25-8ad3-4780-bf99-d3045409bc77"
+  },
+  {
+    "timestamp": "2023-10-01T12:00:00Z",
+    "outdoor_temp": 25.2,
+    "wet_bulb_temp": 21.4,
+    "outdoor_humidity": 48,
+    "solar_radiation": 750,
+    "weather_condition": "Sunny",
+    "id": "ff1d50de-af7e-45c1-94d2-79011597e3a1"
+  },
+  {
+    "timestamp": "2023-10-01T13:00:00Z",
+    "outdoor_temp": 26.0,
+    "wet_bulb_temp": 22.0,
+    "outdoor_humidity": 45,
+    "solar_radiation": 850,
+    "weather_condition": "Clear",
+    "id": "13c8bb46-6562-4662-99b7-99dd08733a66"
+  },
+  {
+    "timestamp": "2023-10-01T14:00:00Z",
+    "outdoor_temp": 25.5,
+    "wet_bulb_temp": 21.8,
+    "outdoor_humidity": 47,
+    "solar_radiation": 700,
+    "weather_condition": "Partly Cloudy",
+    "id": "12b07a17-7f57-4af4-9344-0d227cd19b9b"
+  },
+  {
+    "timestamp": "2023-10-01T15:00:00Z",
+    "outdoor_temp": 24.0,
+    "wet_bulb_temp": 20.5,
+    "outdoor_humidity": 50,
+    "solar_radiation": 500,
+    "weather_condition": "Cloudy",
+    "id": "6f15f501-5bfb-4846-ad70-968abeddf8c3"
+  },
+  {
+    "timestamp": "2023-10-01T16:00:00Z",
+    "outdoor_temp": 22.5,
+    "wet_bulb_temp": 19.3,
+    "outdoor_humidity": 55,
+    "solar_radiation": 300,
+    "weather_condition": "Overcast",
+    "id": "fd894fe5-63e5-4516-be6d-62224fdd327b"
+  },
+  {
+    "timestamp": "2023-10-01T17:00:00Z",
+    "outdoor_temp": 20.0,
+    "wet_bulb_temp": 18.0,
+    "outdoor_humidity": 60,
+    "solar_radiation": 100,
+    "weather_condition": "Light Rain",
+    "id": "fd8fc635-ac4e-4528-80be-0ea1040bdde8"
+  },
+  {
+    "timestamp": "2023-10-01T08:00:00Z",
+    "outdoor_temp": 18.5,
+    "wet_bulb_temp": 16.2,
+    "outdoor_humidity": 65,
+    "solar_radiation": 120,
+    "weather_condition": "Partly Cloudy",
+    "id": "d4d9c5be-d7e9-4bdf-9c3c-7abcd513eecd"
+  },
+  {
+    "timestamp": "2023-10-01T09:00:00Z",
+    "outdoor_temp": 20.1,
+    "wet_bulb_temp": 17.8,
+    "outdoor_humidity": 60,
+    "solar_radiation": 250,
+    "weather_condition": "Sunny",
+    "id": "9e5efa99-7b50-4d7f-bc6e-8715f5a595cf"
+  },
+  {
+    "timestamp": "2023-10-01T10:00:00Z",
+    "outdoor_temp": 22.3,
+    "wet_bulb_temp": 19.5,
+    "outdoor_humidity": 55,
+    "solar_radiation": 400,
+    "weather_condition": "Sunny",
+    "id": "58d52731-77d1-4167-93c9-df411a7c1b0b"
+  },
+  {
+    "timestamp": "2023-10-01T11:00:00Z",
+    "outdoor_temp": 24.7,
+    "wet_bulb_temp": 21.0,
+    "outdoor_humidity": 50,
+    "solar_radiation": 600,
+    "weather_condition": "Clear",
+    "id": "bee5289c-52f6-4ecb-ba1c-ec1dcce6464e"
+  },
+  {
+    "timestamp": "2023-10-01T12:00:00Z",
+    "outdoor_temp": 26.2,
+    "wet_bulb_temp": 22.4,
+    "outdoor_humidity": 48,
+    "solar_radiation": 750,
+    "weather_condition": "Clear",
+    "id": "6f6c2261-8c23-4c22-831a-dda9dcf1879d"
+  },
+  {
+    "timestamp": "2023-10-01T13:00:00Z",
+    "outdoor_temp": 25.8,
+    "wet_bulb_temp": 22.1,
+    "outdoor_humidity": 52,
+    "solar_radiation": 680,
+    "weather_condition": "Partly Cloudy",
+    "id": "e144a216-9014-4833-baf3-d1422fee51b9"
+  },
+  {
+    "timestamp": "2023-10-01T14:00:00Z",
+    "outdoor_temp": 24.0,
+    "wet_bulb_temp": 20.5,
+    "outdoor_humidity": 58,
+    "solar_radiation": 450,
+    "weather_condition": "Cloudy",
+    "id": "37b2406f-e3b5-4fe3-a7e5-b23cc0b27846"
+  },
+  {
+    "timestamp": "2023-10-01T15:00:00Z",
+    "outdoor_temp": 22.5,
+    "wet_bulb_temp": 19.2,
+    "outdoor_humidity": 62,
+    "solar_radiation": 300,
+    "weather_condition": "Cloudy",
+    "id": "c28a66a0-9f6c-4b67-9391-b85c5a90da30"
+  },
+  {
+    "timestamp": "2023-10-01T16:00:00Z",
+    "outdoor_temp": 20.8,
+    "wet_bulb_temp": 18.0,
+    "outdoor_humidity": 68,
+    "solar_radiation": 180,
+    "weather_condition": "Overcast",
+    "id": "d685f6b0-c540-4d4d-8482-ab1cb4059d42"
+  },
+  {
+    "timestamp": "2023-10-01T17:00:00Z",
+    "outdoor_temp": 19.2,
+    "wet_bulb_temp": 16.8,
+    "outdoor_humidity": 72,
+    "solar_radiation": 50,
+    "weather_condition": "Drizzle",
+    "id": "cef42607-ecd1-4321-803b-25e78fd18df1"
+  },
+  {
+    "timestamp": "2023-10-01T08:00:00Z",
+    "outdoor_temp": 18.5,
+    "wet_bulb_temp": 16.2,
+    "outdoor_humidity": 65,
+    "solar_radiation": 120,
+    "weather_condition": "Partly Cloudy",
+    "id": "5afa5c3f-cdc4-4841-9291-346155287312"
+  },
+  {
+    "timestamp": "2023-10-01T09:00:00Z",
+    "outdoor_temp": 20.1,
+    "wet_bulb_temp": 17.8,
+    "outdoor_humidity": 60,
+    "solar_radiation": 250,
+    "weather_condition": "Sunny",
+    "id": "019e64e1-467d-49a9-aec6-ff42188c1dfa"
+  },
+  {
+    "timestamp": "2023-10-01T10:00:00Z",
+    "outdoor_temp": 22.3,
+    "wet_bulb_temp": 19.5,
+    "outdoor_humidity": 55,
+    "solar_radiation": 400,
+    "weather_condition": "Sunny",
+    "id": "9398adf3-258e-4a70-94b7-0be4f8c906f2"
+  },
+  {
+    "timestamp": "2023-10-01T11:00:00Z",
+    "outdoor_temp": 24.7,
+    "wet_bulb_temp": 21.0,
+    "outdoor_humidity": 50,
+    "solar_radiation": 600,
+    "weather_condition": "Clear",
+    "id": "2e3a6576-0d21-4548-97f8-93d23b79d6f2"
+  },
+  {
+    "timestamp": "2023-10-01T12:00:00Z",
+    "outdoor_temp": 26.2,
+    "wet_bulb_temp": 22.4,
+    "outdoor_humidity": 48,
+    "solar_radiation": 750,
+    "weather_condition": "Clear",
+    "id": "9dc66363-e797-456c-b744-cacfea722685"
+  },
+  {
+    "timestamp": "2023-10-01T13:00:00Z",
+    "outdoor_temp": 25.8,
+    "wet_bulb_temp": 22.0,
+    "outdoor_humidity": 52,
+    "solar_radiation": 680,
+    "weather_condition": "Partly Cloudy",
+    "id": "79e1bfd2-6a54-41e5-b6ac-4002e40e791f"
+  }]

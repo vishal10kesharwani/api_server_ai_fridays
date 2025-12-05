@@ -1,0 +1,292 @@
+[
+  {
+    "timestamp": "2023-10-01T08:00:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.5,
+    "indoor_humidity": 45.0,
+    "occupancy_count": 3,
+    "occupancy_binary": 1,
+    "id": "68f1afcc-304a-4eae-9277-a9fd717d5ce4"
+  },
+  {
+    "timestamp": "2023-10-01T08:15:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 23.1,
+    "indoor_humidity": 47.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "e091d77b-7ab5-4568-92e9-6f203f0e3b21"
+  },
+  {
+    "timestamp": "2023-10-01T08:30:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 21.8,
+    "indoor_humidity": 50.0,
+    "occupancy_count": 5,
+    "occupancy_binary": 1,
+    "id": "ee9241f2-bffd-42e9-868a-d5a9068abde6"
+  },
+  {
+    "timestamp": "2023-10-01T08:45:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.7,
+    "indoor_humidity": 46.0,
+    "occupancy_count": 2,
+    "occupancy_binary": 1,
+    "id": "5f852147-f159-4e46-93d7-9397464f374a"
+  },
+  {
+    "timestamp": "2023-10-01T09:00:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 23.5,
+    "indoor_humidity": 48.0,
+    "occupancy_count": 1,
+    "occupancy_binary": 1,
+    "id": "24359e11-ab54-4d13-b6ac-5de892be98e8"
+  },
+  {
+    "timestamp": "2023-10-01T09:15:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 22.0,
+    "indoor_humidity": 49.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "79a7233f-c059-4fed-bc41-4dd28d8992fd"
+  },
+  {
+    "timestamp": "2023-10-01T09:30:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.3,
+    "indoor_humidity": 45.5,
+    "occupancy_count": 4,
+    "occupancy_binary": 1,
+    "id": "fe89d0cc-d6d0-4d9b-a020-fe86edfe5fc4"
+  },
+  {
+    "timestamp": "2023-10-01T09:45:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 23.0,
+    "indoor_humidity": 47.5,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "6c8f03ad-a269-49db-8076-97af7cf0e6ea"
+  },
+  {
+    "timestamp": "2023-10-01T10:00:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 21.5,
+    "indoor_humidity": 51.0,
+    "occupancy_count": 6,
+    "occupancy_binary": 1,
+    "id": "d18a2d34-7114-401f-91c3-46acc88e9386"
+  },
+  {
+    "timestamp": "2023-10-01T10:15:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.0,
+    "indoor_humidity": 46.5,
+    "occupancy_count": 1,
+    "occupancy_binary": 1,
+    "id": "55d50a16-4466-4e6c-9f1a-7fa3e2439109"
+  },
+  {
+    "timestamp": "2023-11-15T08:00:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.5,
+    "indoor_humidity": 45.0,
+    "occupancy_count": 3,
+    "occupancy_binary": 1,
+    "id": "2ad5374a-fef1-4e0d-ba08-9c60a9612655"
+  },
+  {
+    "timestamp": "2023-11-15T08:15:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 21.8,
+    "indoor_humidity": 50.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "bc850412-9a2c-4b5a-9eab-519c12ad3257"
+  },
+  {
+    "timestamp": "2023-11-15T08:30:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 23.2,
+    "indoor_humidity": 48.0,
+    "occupancy_count": 2,
+    "occupancy_binary": 1,
+    "id": "557dfaf4-e1f6-4b3e-99af-3b2a27ab0833"
+  },
+  {
+    "timestamp": "2023-11-15T08:45:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.7,
+    "indoor_humidity": 46.0,
+    "occupancy_count": 4,
+    "occupancy_binary": 1,
+    "id": "86d4f6a6-42c7-4083-b454-f72a38b9e77a"
+  },
+  {
+    "timestamp": "2023-11-15T09:00:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 22.0,
+    "indoor_humidity": 49.0,
+    "occupancy_count": 1,
+    "occupancy_binary": 1,
+    "id": "5d9c29b6-ff8e-4a34-8cc8-47c30153c794"
+  },
+  {
+    "timestamp": "2023-11-15T09:15:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 23.5,
+    "indoor_humidity": 47.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "79032aa0-9c0a-4b04-aca5-43c7180692b2"
+  },
+  {
+    "timestamp": "2023-11-15T09:30:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.3,
+    "indoor_humidity": 44.0,
+    "occupancy_count": 2,
+    "occupancy_binary": 1,
+    "id": "212b523b-a71e-4ed7-a099-bbba94fb1c1c"
+  },
+  {
+    "timestamp": "2023-11-15T09:45:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 21.5,
+    "indoor_humidity": 51.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "d1acbcc5-b2f9-4d1f-a4db-1834b4e6ecd8"
+  },
+  {
+    "timestamp": "2023-11-15T10:00:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 23.0,
+    "indoor_humidity": 46.0,
+    "occupancy_count": 3,
+    "occupancy_binary": 1,
+    "id": "347e802c-b498-4a9a-a824-153190bf78fe"
+  },
+  {
+    "timestamp": "2023-11-15T10:15:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.8,
+    "indoor_humidity": 45.0,
+    "occupancy_count": 1,
+    "occupancy_binary": 1,
+    "id": "fced851f-db52-4f1e-9b8a-3347f6f0cc03"
+  },
+  {
+    "timestamp": "2023-11-15T08:00:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.5,
+    "indoor_humidity": 45.0,
+    "occupancy_count": 3,
+    "occupancy_binary": 1,
+    "id": "b19d3c55-79cd-442e-b695-9d942fbf3391"
+  },
+  {
+    "timestamp": "2023-11-15T08:15:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 21.8,
+    "indoor_humidity": 47.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "a879f17c-37ae-4175-8847-fce0f363f96e"
+  },
+  {
+    "timestamp": "2023-11-15T08:30:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 23.1,
+    "indoor_humidity": 43.0,
+    "occupancy_count": 5,
+    "occupancy_binary": 1,
+    "id": "87bd9209-bb43-4c9e-88ea-a47830038b51"
+  },
+  {
+    "timestamp": "2023-11-15T08:45:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.7,
+    "indoor_humidity": 46.0,
+    "occupancy_count": 2,
+    "occupancy_binary": 1,
+    "id": "2ef96311-f5a5-4da8-968d-aac9488dd541"
+  },
+  {
+    "timestamp": "2023-11-15T09:00:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 22.0,
+    "indoor_humidity": 48.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "192a5511-fc1a-4699-b3f3-b2d7d0b634cc"
+  },
+  {
+    "timestamp": "2023-11-15T09:15:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 23.5,
+    "indoor_humidity": 44.0,
+    "occupancy_count": 4,
+    "occupancy_binary": 1,
+    "id": "727fb5f4-2856-43e4-8f7a-ed372eeeafb1"
+  },
+  {
+    "timestamp": "2023-11-15T09:30:00Z",
+    "sensor_id": "S001",
+    "zone_id": "Z001",
+    "indoor_temp": 22.9,
+    "indoor_humidity": 45.5,
+    "occupancy_count": 1,
+    "occupancy_binary": 1,
+    "id": "a1dfd54f-a824-4ad0-93fb-e44f9136dec9"
+  },
+  {
+    "timestamp": "2023-11-15T09:45:00Z",
+    "sensor_id": "S002",
+    "zone_id": "Z002",
+    "indoor_temp": 21.5,
+    "indoor_humidity": 49.0,
+    "occupancy_count": 0,
+    "occupancy_binary": 0,
+    "id": "6a29405f-6686-4809-becf-4b7805d20c74"
+  },
+  {
+    "timestamp": "2023-11-15T10:00:00Z",
+    "sensor_id": "S003",
+    "zone_id": "Z003",
+    "indoor_temp": 23.8,
+    "indoor_humidity": 42.0,
+    "occupancy_count": 6,
+    "occupancy_binary": 1,
+    "id": "43fd8bdf-34e8-45ad-8bdf-a50fa888cad0"
+  }
+]

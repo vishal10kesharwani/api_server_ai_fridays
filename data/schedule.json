@@ -1,0 +1,302 @@
+[
+  {
+    "schedule_id": 1,
+    "asset_id": 101,
+    "zone_id": 201,
+    "start_time": "08:00:00",
+    "stop_time": "17:00:00",
+    "setpoint_temp": 22.5,
+    "is_holiday": false,
+    "id": "f51c5724-5cf6-4060-9356-c513df79454b"
+  },
+  {
+    "schedule_id": 2,
+    "asset_id": 102,
+    "zone_id": 202,
+    "start_time": "09:00:00",
+    "stop_time": "18:00:00",
+    "setpoint_temp": 21.0,
+    "is_holiday": false,
+    "id": "4e3e068d-06a3-46d2-b087-090a007cd8b9"
+  },
+  {
+    "schedule_id": 3,
+    "asset_id": 103,
+    "zone_id": 203,
+    "start_time": "07:30:00",
+    "stop_time": "16:30:00",
+    "setpoint_temp": 20.0,
+    "is_holiday": false,
+    "id": "45f1d2a1-4fa8-4c2f-99c4-c987ccc0bf08"
+  },
+  {
+    "schedule_id": 4,
+    "asset_id": 104,
+    "zone_id": 204,
+    "start_time": "10:00:00",
+    "stop_time": "19:00:00",
+    "setpoint_temp": 23.0,
+    "is_holiday": false,
+    "id": "0a54633f-2168-4c3f-92ae-26302753b911"
+  },
+  {
+    "schedule_id": 5,
+    "asset_id": 105,
+    "zone_id": 205,
+    "start_time": "08:30:00",
+    "stop_time": "17:30:00",
+    "setpoint_temp": 22.0,
+    "is_holiday": false,
+    "id": "ae4ff14d-7942-4129-8417-a532cedfbca3"
+  },
+  {
+    "schedule_id": 6,
+    "asset_id": 106,
+    "zone_id": 206,
+    "start_time": "06:00:00",
+    "stop_time": "15:00:00",
+    "setpoint_temp": 19.5,
+    "is_holiday": false,
+    "id": "304c932b-672e-4a46-a69b-d333ea088f86"
+  },
+  {
+    "schedule_id": 7,
+    "asset_id": 107,
+    "zone_id": 207,
+    "start_time": "12:00:00",
+    "stop_time": "21:00:00",
+    "setpoint_temp": 24.0,
+    "is_holiday": false,
+    "id": "1a9de2db-8693-4199-8c46-9e508995f82b"
+  },
+  {
+    "schedule_id": 8,
+    "asset_id": 108,
+    "zone_id": 208,
+    "start_time": "07:00:00",
+    "stop_time": "16:00:00",
+    "setpoint_temp": 21.5,
+    "is_holiday": false,
+    "id": "67fd87bd-8859-4cb7-a1bd-fddb4ccc753e"
+  },
+  {
+    "schedule_id": 9,
+    "asset_id": 109,
+    "zone_id": 209,
+    "start_time": "11:00:00",
+    "stop_time": "20:00:00",
+    "setpoint_temp": 22.5,
+    "is_holiday": true,
+    "id": "5954772c-8024-40bb-a1d2-8d2c4bd9ae1a"
+  },
+  {
+    "schedule_id": 10,
+    "asset_id": 110,
+    "zone_id": 210,
+    "start_time": "09:30:00",
+    "stop_time": "18:30:00",
+    "setpoint_temp": 20.5,
+    "is_holiday": true,
+    "id": "3ee84d7f-da6f-496b-8857-540a39b5ef00"
+  },
+  {
+    "schedule_id": 1,
+    "asset_id": 101,
+    "zone_id": 201,
+    "start_time": "08:00:00",
+    "stop_time": "17:00:00",
+    "setpoint_temp": 22.5,
+    "is_holiday": false,
+    "id": "31c22dc1-c047-4f18-b45a-572b05553f12"
+  },
+  {
+    "schedule_id": 2,
+    "asset_id": 102,
+    "zone_id": 202,
+    "start_time": "09:00:00",
+    "stop_time": "18:00:00",
+    "setpoint_temp": 21.0,
+    "is_holiday": false,
+    "id": "277a2fb3-b635-48a7-a4b9-fd971eec093a"
+  },
+  {
+    "schedule_id": 3,
+    "asset_id": 103,
+    "zone_id": 203,
+    "start_time": "07:30:00",
+    "stop_time": "16:30:00",
+    "setpoint_temp": 20.0,
+    "is_holiday": false,
+    "id": "b342c1b4-3e2b-438d-979f-c468c4f0d095"
+  },
+  {
+    "schedule_id": 4,
+    "asset_id": 104,
+    "zone_id": 204,
+    "start_time": "10:00:00",
+    "stop_time": "19:00:00",
+    "setpoint_temp": 23.0,
+    "is_holiday": false,
+    "id": "80142b16-5a5a-4db3-91b9-fdd2003b13f8"
+  },
+  {
+    "schedule_id": 5,
+    "asset_id": 105,
+    "zone_id": 205,
+    "start_time": "06:00:00",
+    "stop_time": "15:00:00",
+    "setpoint_temp": 19.5,
+    "is_holiday": false,
+    "id": "253721fc-95d2-46c9-8641-833e6e56c11c"
+  },
+  {
+    "schedule_id": 6,
+    "asset_id": 106,
+    "zone_id": 206,
+    "start_time": "12:00:00",
+    "stop_time": "21:00:00",
+    "setpoint_temp": 24.0,
+    "is_holiday": false,
+    "id": "1b97fd67-ce80-40ad-bea0-986bf355d128"
+  },
+  {
+    "schedule_id": 7,
+    "asset_id": 107,
+    "zone_id": 207,
+    "start_time": "08:30:00",
+    "stop_time": "17:30:00",
+    "setpoint_temp": 22.0,
+    "is_holiday": true,
+    "id": "d95e5694-2467-48ba-a3ca-ae142a565915"
+  },
+  {
+    "schedule_id": 8,
+    "asset_id": 108,
+    "zone_id": 208,
+    "start_time": "11:00:00",
+    "stop_time": "20:00:00",
+    "setpoint_temp": 21.5,
+    "is_holiday": false,
+    "id": "fe8ee905-9b3d-4a1f-b3e1-220c115303c7"
+  },
+  {
+    "schedule_id": 9,
+    "asset_id": 109,
+    "zone_id": 209,
+    "start_time": "07:00:00",
+    "stop_time": "16:00:00",
+    "setpoint_temp": 20.5,
+    "is_holiday": true,
+    "id": "b3ddfe45-ba1d-4c84-a35e-516daba6ed12"
+  },
+  {
+    "schedule_id": 10,
+    "asset_id": 110,
+    "zone_id": 210,
+    "start_time": "13:00:00",
+    "stop_time": "22:00:00",
+    "setpoint_temp": 23.5,
+    "is_holiday": false,
+    "id": "300f469d-b267-43c3-9a63-cf70a16b5799"
+  },
+  {
+    "schedule_id": 1,
+    "asset_id": 101,
+    "zone_id": 201,
+    "start_time": "08:00:00",
+    "stop_time": "17:00:00",
+    "setpoint_temp": 22.5,
+    "is_holiday": false,
+    "id": "b1e7def6-2714-41cf-b029-fe0bd6ae5ff1"
+  },
+  {
+    "schedule_id": 2,
+    "asset_id": 102,
+    "zone_id": 202,
+    "start_time": "09:00:00",
+    "stop_time": "18:00:00",
+    "setpoint_temp": 21.0,
+    "is_holiday": false,
+    "id": "2c738cbc-cc98-43f6-b780-d8db806f817d"
+  },
+  {
+    "schedule_id": 3,
+    "asset_id": 103,
+    "zone_id": 203,
+    "start_time": "07:30:00",
+    "stop_time": "16:30:00",
+    "setpoint_temp": 20.0,
+    "is_holiday": false,
+    "id": "939ac86f-75a8-4996-bdc6-ae13f93a729a"
+  },
+  {
+    "schedule_id": 4,
+    "asset_id": 104,
+    "zone_id": 204,
+    "start_time": "10:00:00",
+    "stop_time": "19:00:00",
+    "setpoint_temp": 23.0,
+    "is_holiday": false,
+    "id": "f7d86654-dd0c-4157-86cb-b5bcc80479a3"
+  },
+  {
+    "schedule_id": 5,
+    "asset_id": 105,
+    "zone_id": 205,
+    "start_time": "08:30:00",
+    "stop_time": "17:30:00",
+    "setpoint_temp": 22.0,
+    "is_holiday": false,
+    "id": "7ba6def3-cfcb-49e8-a143-29b3f120aa7f"
+  },
+  {
+    "schedule_id": 6,
+    "asset_id": 106,
+    "zone_id": 206,
+    "start_time": "06:00:00",
+    "stop_time": "15:00:00",
+    "setpoint_temp": 19.5,
+    "is_holiday": false,
+    "id": "52b92322-9931-46b9-abcd-99286b765feb"
+  },
+  {
+    "schedule_id": 7,
+    "asset_id": 107,
+    "zone_id": 207,
+    "start_time": "12:00:00",
+    "stop_time": "21:00:00",
+    "setpoint_temp": 24.0,
+    "is_holiday": false,
+    "id": "e6288069-f604-41dc-a639-346dabf68d9b"
+  },
+  {
+    "schedule_id": 8,
+    "asset_id": 108,
+    "zone_id": 208,
+    "start_time": "07:00:00",
+    "stop_time": "16:00:00",
+    "setpoint_temp": 21.5,
+    "is_holiday": true,
+    "id": "d287b3a3-7075-46c2-8984-7c624adab3d6"
+  },
+  {
+    "schedule_id": 9,
+    "asset_id": 109,
+    "zone_id": 209,
+    "start_time": "11:00:00",
+    "stop_time": "20:00:00",
+    "setpoint_temp": 22.5,
+    "is_holiday": false,
+    "id": "05c2fac4-64f0-480d-9df0-acd9c2cf6b8e"
+  },
+  {
+    "schedule_id": 10,
+    "asset_id": 110,
+    "zone_id": 210,
+    "start_time": "13:00:00",
+    "stop_time": "22:00:00",
+    "setpoint_temp": 23.5,
+    "is_holiday": true,
+    "id": "1e8048c9-6846-4573-b56c-0a57fa0e3c02"
+  }
+]
